@@ -5,6 +5,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko7965&show_icons=true&theme=tokyonight)
 
+
+Note: These are just my most used languages in public repositories
+I also code a lot of Rust, Python and sometimes F#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niko7965&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 

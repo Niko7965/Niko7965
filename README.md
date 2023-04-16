@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niko7965
-- 👀 I’m interested in Audio, Math and Software
+- 👀 I’m interested in Algorithms and Datastructures, Audio, Software
 - 🌱 I’m currently learning all of the above
-- 📫 How to reach me: thehjortshoj@gmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko7965&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niko7965&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
